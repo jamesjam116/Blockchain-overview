@@ -7,7 +7,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <hr />
 
 This is Bitmap Empires of world map using Bitcoin NFTs and Tokens.
-<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/cfaf3bc5-cf7e-4b41-986a-cb3177d137d1](https://github.com/yamate0116/Blockchain-overview/assets/125228912/f7f1939a-993c-4378-bc1b-14445f54de8a">
+<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/f7f1939a-993c-4378-bc1b-14445f54de8a">
 
 
 Bitmap empires is Bitcoin Dapp that users can register to the bitmap world map and usign it can attend many related projects such as P2E game and other NFT projects...
