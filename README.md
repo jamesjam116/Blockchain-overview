@@ -8,7 +8,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <hr />
 
 This is raffle project has single & multi raffles on Ethereum network.
-<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/2b7cf680-cf62-44ab-85ed-fff7a54e3138
+<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/2b7cf680-cf62-44ab-85ed-fff7a54e3138.png
 ">
 
 Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
