@@ -2,8 +2,6 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
-![Screenshot_7](https://github.com/yamate0116/Blockchain-overview/assets/125228912/cfaf3bc5-cf7e-4b41-986a-cb3177d137d1)
-
 
 <h3><u><strong><i>Ouija AMM</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -11,17 +9,10 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 This is raffle project has single & multi raffles on Ethereum network.
 <img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/cfaf3bc5-cf7e-4b41-986a-cb3177d137d1">
 
-Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
-With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
-
-This platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
-By utilizing blockchain technology (chain link's randomiser), we grant power back to the users, providing an open, democratic platform where everyone has an equal opportunity to succeed.
-
-Rafldex is more than just a raffle platform - it's a hub for cross-community integration, a melting pot for diverse NFT communities to interact, share, and grow together.
-This vibrant ecosystem encourages engagement and fosters a super NFT community that breaks down the boundaries of individual projects.
+Ouija Protocol is a capital-efficient automated market maker (AMM) designed to enhance liquidity provision by leveraging on-demand liquidity from established lending protocols. By doing so, Ouija addresses the issue of fragmented liquidity often found in traditional AMMs. The protocol's innovative approach allows for any token accepted as collateral within the lending protocol to be used for liquidity provision, thus creating an 'universal liquidity pool'. This results in increased liquidity depth, pricing sustainability, and a wider scope of assets for liquidity providers to earn fees from.
 
 I attended this project as front-end/web3 developer and I used Next.js and Wagmi for this.
-
+- Discord: <a href="https://discord.gg/zXxPVqXrn3">Ouija Swap</a>
 - Live: <a href="https://ouija.exchange/majors-pool">Ouija Swap</a>
 - Github repo: <a href="https://github.com/yamate0116/Ouija-swap">Ouija Swap</a>
 - Twitter: <a href="https://twitter.com/ouija_exchange">Twitter</a>
