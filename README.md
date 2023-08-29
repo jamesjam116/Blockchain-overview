@@ -2,14 +2,14 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
+![Screenshot_7](https://github.com/yamate0116/Blockchain-overview/assets/125228912/cfaf3bc5-cf7e-4b41-986a-cb3177d137d1)
 
 
 <h3><u><strong><i>Ouija AMM</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
 This is raffle project has single & multi raffles on Ethereum network.
-<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/2b7cf680-cf62-44ab-85ed-fff7a54e3138.png
-">
+<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/cfaf3bc5-cf7e-4b41-986a-cb3177d137d1">
 
 Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
 With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
