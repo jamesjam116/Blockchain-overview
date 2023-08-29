@@ -1,45 +1,92 @@
-#Yamate's Blockchain Projects (Solana / Ethereum / Binance - EVM / NEAR)
+# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora), Solana, Cardano, and so on.</i>
 
-As you can see, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
+As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
-<!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
+
+
+<h3><u><strong><i>Ouija AMM</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-Multiple Factor Rewards Staking program for Shred NFT collections
+This is raffle project has single & multi raffles on Ethereum network.
+<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/2b7cf680-cf62-44ab-85ed-fff7a54e3138
+">
 
-- Staking Link: <a href="https://www.shreddedapes-staking.io" target="_blank">Shredded Staking</a>
-  - By staking Shredded Ape, you are sending him to our private gym on the moon. For each day your ape is working out, he'll be getting a paid in $WHEY. It's up to you to decide for how long you want to send your apes to the gym - you can cancel the staking and receive earned rewards at any given time.
-  - AMOUNT EARNED: 10 $WHEY / Ape staked / Day. Staking 3 or more apes will multiply the amount of $WHEY earned by x1.25
-- Original Link: <a href="https://shreddedapes.io" target="_blank">Shredded Apes<a/>
-- Github repo: <a href="https://github.com/best-lucky1030/Shred_NFT_Staking" target="_blank">Shred_NFT_Staking</a>
+Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
+With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
 
-<h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
+This platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
+By utilizing blockchain technology (chain link's randomiser), we grant power back to the users, providing an open, democratic platform where everyone has an equal opportunity to succeed.
+
+Rafldex is more than just a raffle platform - it's a hub for cross-community integration, a melting pot for diverse NFT communities to interact, share, and grow together.
+This vibrant ecosystem encourages engagement and fosters a super NFT community that breaks down the boundaries of individual projects.
+
+I attended this project as front-end/web3 developer and I used Next.js and Wagmi for this.
+
+- Live: <a href="https://ouija.exchange/majors-pool">Ouija Swap</a>
+- Github repo: <a href="https://github.com/yamate0116/Ouija-swap">Ouija Swap</a>
+- Twitter: <a href="https://twitter.com/ouija_exchange">Twitter</a>
+
+
+<h3><u><strong><i>Rafldex</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-Stake Goblin NFTs on Solana using Rust/React and Web3. Staked NFTs are locked in 15 days.
+This is raffle project has single & multi raffles on Ethereum network.
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/7c9e95c7-1cbd-45eb-89f0-7b2ebebafc28.png">
 
-- Staking Link: <a href="https://stake.goblinarmy.io" target="_blank">Staking Goblin</a>
-- Original Link: <a href="https://goblinarmy.io" target="_blank">Goblin Army</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Goblin-Solana-NFT-Staking" target="_blank">Goblin-Solana-NFT-Staking</a>
-  
-<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
+Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
+With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
+
+This platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
+By utilizing blockchain technology (chain link's randomiser), we grant power back to the users, providing an open, democratic platform where everyone has an equal opportunity to succeed.
+
+Rafldex is more than just a raffle platform - it's a hub for cross-community integration, a melting pot for diverse NFT communities to interact, share, and grow together.
+This vibrant ecosystem encourages engagement and fosters a super NFT community that breaks down the boundaries of individual projects.
+
+I attended this project as front-end/web3 developer and I used Next.js and Wagmi for this.
+
+- Live: <a href="https://www.rafldex.io">Rafldex</a>
+- Github repo: <a href="https://github.com/venture1981/God-Hates-NFTees-CLUB-raffle">God-Hates-NFTees-CLUB-raffle</a>
+- Twitter: <a href="https://twitter.com/@rafldex">Rafldex</a>
+
+
+
+<h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-Solana Multi Collection NFT staking
+This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
 
-- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
-  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
-  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
-  - Staking will be limited to 3 farmers and 3 animals per land plot.
-  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
-- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
-- Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
+
+Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
+I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
+
+- Live: <a href="https://www.monopoly.cafe">Monopoly</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/venture1981/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/venture1981/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/venture1981/monopoly-frontend">monopoly-frontend</a>
 
 
 
+<h3><u><strong><i>Adaki Dashboard</i></strong></u> &nbsp;(Cardano)</h3>
+<hr />
 
+<p align="right">Adaki Dashboard</p>
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/409ebe18-cc00-402e-a5f3-aa111411737f.png">
 
+This is Adaki Dashboard on Cardano network:
 
+Adaki is a web3 brand and NFT platform built on the Cardano Blockchain. Our name is derived from ADA (the currency of the Cardano Blockchain) and KI, which means "energy" in Japanese. We aim to bring creative energy to the world of blockchain technology and build a community of passionate individuals who share our vision.
+
+<p align="right">Adaki Website</p>
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/be6b3f10-c5c6-49ed-bd84-36df9cf79411.png">
+
+- Live: <a href="https://dashboard.adaki.io">Adaki | Dashboard</a>
+- Git repo: <a href="https://github.com/venture1981/adaki-dasboard">adaki-dasboard</a>
+- Social links:
+  - website: <a href="https://adaki.io">Adaki</a>
+  - twitter: <a href="https://twitter.com/AdakiNFT">AdakiNFT</a>
+  - collection: <a href="https://www.jpg.store/collection/adakievents">Adaki | Event Collections NFTs</a>
 
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
@@ -53,9 +100,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/best-lucky1030/degen-taxi-frontend">degen-taxi-frontend</a>
+  - backend repo: <a href="https://github.com/venture1981/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/venture1981/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/venture1981/degen-taxi-frontend">degen-taxi-frontend</a>
 
 
 
@@ -68,7 +115,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
+- Github repo: <a href="https://github.com/venture1981/coin-flip-solkitty">coin-flip-solkitty</a>
 
 
 
@@ -89,9 +136,9 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 - Github repo:
-  - Contract: <a href="https://github.com/best-lucky1030/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/best-lucky1030/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/best-lucky1030/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+  - Contract: <a href="https://github.com/venture1981/dale-mint-contract-avax">dale-mint-contract-avax</a>
+  - Backend: <a href="https://github.com/venture1981/dale-mint-backend-avax">dale-mint-backend-avax</a>
+  - Frontend: <a href="https://github.com/venture1981/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -109,7 +156,7 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Burning_Masked_Ape">Burning_Masked_Ape</a>
+- Github repo: <a href="https://github.com/venture1981/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -137,7 +184,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
       - 25% bonus on the sum of the rarity multiplier.
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
-- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+- Github Repo: <a href="https://github.com/venture1981/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
 <h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -162,8 +209,8 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
 - Official Links:
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
-  - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
+  - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
+- Github repo: <a href="https://github.com/venture1981/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -177,10 +224,10 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
+- Github repo: <a href="https://github.com/venture1981/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
-<h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
@@ -189,14 +236,14 @@ Staking an SPL token "FLWR"
 
 <!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
 - Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
-- Live Link: <a href="https://flwrstaking.solflowers.io">SOL Flowers Staking</a>
+- Live Link: <a href="https://www.solflowers.io">SOL Flowers Staking</a>
   - number of flwr (spl-token) - 50/75/100%
   - reward period/lock time  - 4/6/12 month
   - interest  - 3%/6%/12%
   - transaction fee - 0.1 sol
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
+- Github repo : <a href="https://github.com/venture1981/FLWR-staking" target="_blank">FLWR-staking</a>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -215,12 +262,10 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
   - Website: <a href="https://www.solflowers.io">SOL Flowers</a>
   - Twitter: <a href="https://twitter.com/solflowers_io">Sol flowers</a>
   - Magic Eden: <a href="https://magiceden.io/creators/sol_flowers">Magic Eden link</a>
-  - White Paper: <a href="https://www.solflowers.io/src/assets/files/Whitepaper.pdf">White Paper</a>
-  - Staking: <a href="https://flwrstaking.solflowers.io">Flower Staking</a>
-  - Game: <a href="https://drobro.io">Game</a>
+  - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
+  - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
   - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-  - Farm $Flwr <a href="https://raydium.gitbook.io/raydium/yield-farming/raydium-farms">Farm $Flwr</a>
-- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-brains-">Sol flowers raffle</a>
+- Github repo: <a href="https://github.com/venture1981/raffle-auction-brains-">Sol flowers raffle</a>
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -242,7 +287,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
+- Github repo: <a href="https://github.com/venture1981/EU-raffle" target="_blank">EU-raffle</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -260,7 +305,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
+- Github repo: <a href="https://github.com/venture1981/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
 <h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -279,17 +324,17 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Apex-Raffle">Apex-Raffle</a>
+- Github repo: <a href="https://github.com/venture1981/Apex-Raffle">Apex-Raffle</a>
 
-<h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
 
-This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
+This is raffle/auction houses of tombstoned application on Solana network.
 
 - Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
-- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
+- Online link: <a href="https://mausoleum.tombstoned.app">The Mausolem Auction</a>
   - Payment method
     - SOL, Various SPL tokens
   - Reward Type
@@ -299,7 +344,7 @@ This is the auction platform that users can bid with several 💵spl-tokens and 
   - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/best-lucky1030/auction-doge">auction-doge</a>
+- Github repo: <a href="https://github.com/venture1981/auction-doge">auction-doge</a>
   - Project Structure:
     - Auction contract, Api, Front-end
 
@@ -321,7 +366,7 @@ Now we are adding more features for Nanas.
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
   
-- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+- Git repo: <a href="https://github.com/venture1981/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -340,7 +385,7 @@ Now we are adding more features for Nanas.
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
+- Github repo: <a href="https://github.com/venture1981/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
 
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
@@ -354,7 +399,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
+- Github repo: <a href="https://github.com/venture1981/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -367,7 +412,7 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
+- Github repo: <a href="https://github.com/venture1981/IconFashion" target="_blank">IconGirl</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -379,7 +424,7 @@ Now I am working on this project and we are releasing this in Apirl.
 - What is `97 Universe` ?
   - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
+- Github repo: <a href="https://github.com/venture1981/Universe97" target="_blank">Universe97</a>
 
 <h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -390,4 +435,4 @@ Now I am working on this project and we are releasing this in Apirl.
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
+- Git repo: <a href="https://github.com/venture1981/token-list" target="_blank">Space Parts</a>
