@@ -3,19 +3,7 @@
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
 
-<h3><u><strong><i>BitmapEmpires</i></strong></u> &nbsp;(Bitcoin Ordinal)</h3>
-<hr />
 
-This is Bitmap Empires of world map using Bitcoin NFTs and Tokens.
-<img align="right" width="300px" src="https://github.com/yamate0116/Blockchain-overview/assets/125228912/f7f1939a-993c-4378-bc1b-14445f54de8a">
-
-
-Bitmap empires is Bitcoin Dapp that users can register to the bitmap world map and usign it can attend many related projects such as P2E game and other NFT projects...
-
-I attended this project as full-stack developer (React Three.js FIber and Bitcoin wallet integration (Xverse and Unisat wallet))
-- Discord: <a href="https://discord.gg/zXxPVqXrn3">Bitmap Empire</a>
-- Live: <a href="https://bitmap.rcsv.io">Bitmap Empire</a>
-- Twitter: <a href="https://twitter.com/BitmapEmpires">Twitter</a>
 
 
 <h3><u><strong><i>Ouija AMM</i></strong></u> &nbsp;(Ethereum)</h3>
